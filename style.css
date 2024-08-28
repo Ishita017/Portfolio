@@ -503,7 +503,9 @@ span {
   html {
     font-size: 50%;
   }
-
+.home-content p {
+    width: 300px;
+  }
   .contact form .input-box input {
     width: 100%;
   }
@@ -517,7 +519,9 @@ span {
   .about-img img {
     width: 90vw;
   }
-
+.home-content p {
+    width: 300px;
+  }
   .footer {
     flex-direction: column-reverse;
   }
